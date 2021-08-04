@@ -1,4 +1,4 @@
-FROM locustio/locust:1.6.0
+FROM locustio/locust:latest
 
 # Install locust-plugins which include the ApplicationInsights exporter
 # https://github.com/SvenskaSpel/locust-plugins
